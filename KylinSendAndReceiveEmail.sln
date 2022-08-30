@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KylinSendAndReceiveEmail", "KylinSendAndReceiveEmail\KylinSendAndReceiveEmail.csproj", "{31A82446-BC7B-4C4F-9CB2-A96255013558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KylinEmailCore", "KylinEmailCore\KylinEmailCore.csproj", "{D36EA231-7DE0-493C-AC96-DC7A32D0934F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A82446-BC7B-4C4F-9CB2-A96255013558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A82446-BC7B-4C4F-9CB2-A96255013558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A82446-BC7B-4C4F-9CB2-A96255013558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A82446-BC7B-4C4F-9CB2-A96255013558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36EA231-7DE0-493C-AC96-DC7A32D0934F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36EA231-7DE0-493C-AC96-DC7A32D0934F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36EA231-7DE0-493C-AC96-DC7A32D0934F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36EA231-7DE0-493C-AC96-DC7A32D0934F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C37B1E-BBD6-4256-B5DE-26E4B08587AA}
+	EndGlobalSection
+EndGlobal
